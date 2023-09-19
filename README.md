@@ -10,3 +10,6 @@ https://viewoniq.org/wp-content/uploads/2023/07/NIQ-DATASET-V1.3.4.zip
 
 Uncomment line 13 in the script, and then source it to automatically download and process the data.
 
+The knitted `R` script can be viewed here:
+
+https://grasshoppermouse.github.io/Lynn-Becker/
